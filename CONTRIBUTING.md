@@ -1,42 +1,30 @@
-# Contributing
+# Kontribusi
 
-We'd love your help! Thanks for caring about the book.
+Kami sangat menghargai bantuan anda! Terima kasih telah peduli terhadap buku ini!
 
-## Licensing
+## Lisensi
 
-This repository is under the same license as Rust itself, MIT/Apache2. You
-can find the full text of each license in the `LICENSE-*` files in this
-repository.
+Repositori ini berada di bawah lisensi yang sama dengan Rust, MIT/Apache2. Anda dapat membaca detail mengenai tiap lisensi pada berkas `LICENSE-*` di repositori ini.
 
-## Code of Conduct
+## Kode Etik
 
-The Rust project has [a code of conduct](http://rust-lang.org/policies/code-of-conduct)
-that governs all sub-projects, including this one. Please respect it!
+Projek Rust memiliki [kode etik](https://www.rust-lang.org/policies/code-of-conduct) yang berlaku pada semua sub-projek, termasuk yang satu ini. Kami mohon kerjasamanya!
 
-## Review
+## Ulasan
 
-Our [open pull requests][pulls] are new chapters or edits that we're
-currently working on. We would love if you would read through those and make
-comments for any suggestions or corrections!
+[Open pull request][pulls] dari kami merupakan bab baru atau perubahan yang sedang kami lakukan. Kami sangat senang bila anda membacanya dan memberikan saran atau koreksi!
 
 [pulls]: https://github.com/rust-lang/book/pulls
 
-## Help wanted
+## Bantuan yang Dibutuhkan
 
-If you're looking for ways to help that don't involve large amounts of
-reading or writing, check out the [open issues with the E-help-wanted
-label][help-wanted]. These might be small fixes to the text, Rust code,
-frontend code, or shell scripts that would help us be more efficient or
-enhance the book in some way!
+Jika anda hendak memberikan bantuan yang tidak membutuhkan banyak membaca atau menulis, periksalah [isu dengan label E-help-wanted][help-wanted]. Ini biasanya merupakan perubahan kecil pada teks, kode Rust, *frontend code*, atau skrip *shell* yang membantu kami lebih efisien dan mungkin membuat buku ini lebih baik.
 
 [help-wanted]: https://github.com/rust-lang/book/issues?q=is%3Aopen+is%3Aissue+label%3AE-help-wanted
 
-## Translations
+## Penerjemahan
 
-We'd love help translating the book! See the [Translations] label to join in
-efforts that are currently in progress. Open a new issue to start working on
-a new language! We're waiting on [mdbook support] for multiple languages
-before we merge any in, but feel free to start!
+Kami sangat menghargai bantuan menerjemahkan buku ini! Silahkan periksa label [Translations] untuk bergabung bersama dalam proses penerjemahan. Buatlah isu baru untuk mulai mengerjakan penerjamahan bahasa baru! Kami menantikan [dukungan mdbook] untuk berbagai macam bahasa sebelum kami menggabungkan semuanya, namun anda bisa mulai kapanpun!
 
 [Translations]: https://github.com/rust-lang/book/issues?q=is%3Aopen+is%3Aissue+label%3ATranslations
-[mdbook support]: https://github.com/rust-lang-nursery/mdBook/issues/5
+[dukungan mdbook]: https://github.com/rust-lang-nursery/mdBook/issues/5
